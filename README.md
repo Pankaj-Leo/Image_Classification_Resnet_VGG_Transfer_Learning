@@ -141,7 +141,7 @@ By studying this repository, you will:
 ---
 
 
-Speical Thanks to Krish Naik (https://github.com/krishnaik06)
+Special Thanks to Krish Naik (https://github.com/krishnaik06)
 ---
 **Pankaj Somkuwar**  
 🔗 [GitHub](https://github.com/Pankaj-Leo) | [LinkedIn](https://linkedin.com/in/pankajsomkuwar)
